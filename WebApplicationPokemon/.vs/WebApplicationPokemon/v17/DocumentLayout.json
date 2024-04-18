@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sgherzi\\Documents\\GraphQLPokemon\\WebApplicationPokemon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F81AF5D0-0EE8-4A37-BC84-BF175BE6B99C}|WebApplicationPokemon.csproj|c:\\users\\sgherzi\\documents\\graphqlpokemon\\webapplicationpokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81AF5D0-0EE8-4A37-BC84-BF175BE6B99C}|WebApplicationPokemon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81AF5D0-0EE8-4A37-BC84-BF175BE6B99C}|WebApplicationPokemon.csproj|c:\\users\\sgherzi\\documents\\graphqlpokemon\\webapplicationpokemon\\graphql\\pokemonquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81AF5D0-0EE8-4A37-BC84-BF175BE6B99C}|WebApplicationPokemon.csproj|solutionrelative:graphql\\pokemonquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81AF5D0-0EE8-4A37-BC84-BF175BE6B99C}|WebApplicationPokemon.csproj|c:\\users\\sgherzi\\documents\\graphqlpokemon\\webapplicationpokemon\\graphql\\pokemonmutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81AF5D0-0EE8-4A37-BC84-BF175BE6B99C}|WebApplicationPokemon.csproj|solutionrelative:graphql\\pokemonmutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81AF5D0-0EE8-4A37-BC84-BF175BE6B99C}|WebApplicationPokemon.csproj|c:\\users\\sgherzi\\documents\\graphqlpokemon\\webapplicationpokemon\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81AF5D0-0EE8-4A37-BC84-BF175BE6B99C}|WebApplicationPokemon.csproj|solutionrelative:models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81AF5D0-0EE8-4A37-BC84-BF175BE6B99C}|WebApplicationPokemon.csproj|c:\\users\\sgherzi\\documents\\graphqlpokemon\\webapplicationpokemon\\models\\createpokemoninput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81AF5D0-0EE8-4A37-BC84-BF175BE6B99C}|WebApplicationPokemon.csproj|solutionrelative:models\\createpokemoninput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sgherzi\\Documents\\GraphQLPokemon\\WebApplicationPokemon\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sgherzi\\Documents\\GraphQLPokemon\\WebApplicationPokemon\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:55:30.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokemonMutation.cs",
+              "DocumentMoniker": "C:\\Users\\sgherzi\\Documents\\GraphQLPokemon\\WebApplicationPokemon\\GraphQL\\PokemonMutation.cs",
+              "RelativeDocumentMoniker": "GraphQL\\PokemonMutation.cs",
+              "ToolTip": "C:\\Users\\sgherzi\\Documents\\GraphQLPokemon\\WebApplicationPokemon\\GraphQL\\PokemonMutation.cs",
+              "RelativeToolTip": "GraphQL\\PokemonMutation.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:54:08.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PokemonQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sgherzi\\Documents\\GraphQLPokemon\\WebApplicationPokemon\\GraphQL\\PokemonQuery.cs",
+              "RelativeDocumentMoniker": "GraphQL\\PokemonQuery.cs",
+              "ToolTip": "C:\\Users\\sgherzi\\Documents\\GraphQLPokemon\\WebApplicationPokemon\\GraphQL\\PokemonQuery.cs",
+              "RelativeToolTip": "GraphQL\\PokemonQuery.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:34:09.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\sgherzi\\Documents\\GraphQLPokemon\\WebApplicationPokemon\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Models\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\sgherzi\\Documents\\GraphQLPokemon\\WebApplicationPokemon\\Models\\Pokemon.cs",
+              "RelativeToolTip": "Models\\Pokemon.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:59:46.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreatePokemonInput.cs",
+              "DocumentMoniker": "C:\\Users\\sgherzi\\Documents\\GraphQLPokemon\\WebApplicationPokemon\\Models\\CreatePokemonInput.cs",
+              "RelativeDocumentMoniker": "Models\\CreatePokemonInput.cs",
+              "ToolTip": "C:\\Users\\sgherzi\\Documents\\GraphQLPokemon\\WebApplicationPokemon\\Models\\CreatePokemonInput.cs",
+              "RelativeToolTip": "Models\\CreatePokemonInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:09:26.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
